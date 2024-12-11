@@ -110,12 +110,14 @@ print(f'patterns: {patterns}')
 matcher.add('TEST', patterns)
 
 # corpus = ['I have a great dog', 'Hi this is my dog']
-corpus = [
-    'This is a great pen',
-    'You are a very good boy',
-    'This is boring as fuck',
-    'I do not like your vibe'
-]
+# corpus = [
+#     'This is a great pen',
+#     'You are a very good boy',
+#     'This is boring as fuck',
+#     'I do not like your vibe'
+# ]
+with open('../data/corpus.txt', 'r') as f:
+    corpus = f.read().split('\n')
 docs = nlp.pipe(corpus)
 for doc in docs:
     print(doc.text)

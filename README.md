@@ -1,7 +1,7 @@
 # GeneriZer
 
  A program to convert a song to Generation Z slang.
- Current version: `GZ-0.0.1`.
+ Current version: `GZ-0.0.2`.
 
 # Installation Guide
 
@@ -38,8 +38,17 @@
    - [ ] Filter the voice from the audio.
    - [ ] Change the voice to suit a given voice.
    - [ ] Learn the voice from given samples.
+ - [ ] Documentation
+   - [ ] API documentation.
+   - [ ] High-level usage documentation.
 
 # Version History
+
+ ## Version GZ-0.0.2
+
+  The additions changes were made.
+  1. Added sentence selection and randomized phrase replacement.
+  2. Added a logging system for easy debugging.
 
  ## Version GZ-0.0.1
 

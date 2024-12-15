@@ -44,9 +44,13 @@
 
 # Version History
 
+ ## Version GZ-0.0.3
+
+ Added more Generation Z slang in the word-map.
+
  ## Version GZ-0.0.2
 
-  The additions changes were made.
+  The following additions were made.
   1. Added sentence selection and randomized phrase replacement.
   2. Added a logging system for easy debugging.
 

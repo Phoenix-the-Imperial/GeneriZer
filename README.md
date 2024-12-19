@@ -1,7 +1,7 @@
 # GeneriZer
 
  A program to convert a song to Generation Z slang.
- Current version: `GZ-0.0.2`.
+ Current version: `GZ-0.0.4`.
 
 # Installation Guide
 
@@ -28,6 +28,7 @@
 
  The high-level goals are as follows.
  - [ ] Lyrics
+   - [ ] Create the full phrase map.
    - [ ] Use a word and phrase map.
    - [ ] Learn the word and phrase map.
  - [ ] Music
@@ -44,9 +45,13 @@
 
 # Version History
 
+ ## Version GZ-0.0.4
+
+  Randomized the choices of similar and replacement phrases.
+
  ## Version GZ-0.0.3
 
- Added more Generation Z slang in the word-map.
+  Added more Generation Z slang in the word-map.
 
  ## Version GZ-0.0.2
 
@@ -56,7 +61,7 @@
 
  ## Version GZ-0.0.1
 
- Added phrase-mapping system.
+  Added phrase-mapping system.
 
  ## Version GZ-0.0.0
 

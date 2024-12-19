@@ -26,6 +26,39 @@ random.seed(7)
 
 dbg = Debug(0)
 
+def get_weight(x: int) -> float:
+    """
+    The weight function for choosing elements from lists.
+
+    Parameters
+    ----------
+    x: int
+        The index of the element.
+    
+    Returns
+    -------
+    The weight corresponding to the element.
+    """
+    return 1 / x
+
+def normalize_to_probabilities(weights: list |  np.ndarray) -> np.ndarray:
+    """
+    Given a list of weights, converts it to a list of probabilities bnby normalizing the sum to 1.
+    """
+    return np.array(weights) / np.sum(weights)
+
+def get_probabilities(n: int) -> np.ndarray:
+    """
+    Returns the entire list of probabilities for an array of a given length n.
+    """
+    return normalize_to_probabilities([get_weight(x) for x in range(1, n + 1)])
+
+def get_one_element_randomly(arr: list | np.ndarray):
+    """
+    Choose one element from the given list arr according to the weight function.
+    """
+    return np.random.choice(arr, 1, len(arr))[0]
+
 def get_similar_words(word: str, n: int, include_original: bool = True) -> list:
     """
     Returns the n most similar words to the given word.
@@ -142,13 +175,13 @@ def replace_synonyms(doc: Doc, n: int, max_k: int):
                 dbg.log(f'Synonyms: {synonyms}')
                 known_synonyms = [s for s in synonyms if s in replacement]
                 if (len(known_synonyms) > 0):
-                    synonym = random.choice(known_synonyms)
+                    synonym = str(get_one_element_randomly(known_synonyms))
                     dbg.log(f'Synonym: {synonym}')
                     if synonym in replacement:
                         if (type(replacement[synonym]) == str):
                             replacement_phrase = replacement[synonym]
                         elif (type(replacement[synonym]) == list):
-                            replacement_phrase = replacement[synonym][0]
+                            replacement_phrase = str(get_one_element_randomly(replacement[synonym]))
                         else:
                             raise TypeError("Replacement word must be a string or a list of strings.")
                         dbg.log(f'replacement_phrase: {replacement_phrase}')
@@ -163,7 +196,7 @@ def replace_synonyms(doc: Doc, n: int, max_k: int):
         yield modified_sent
 
 @spacy.Language.component("word_replacer")
-def word_replacer(doc: Doc):
+def word_replacer(doc: Doc) -> Doc:
     """
     Replaces the phrases of a given document with the phrases replaced with the vocubulary from a given corpus.
 

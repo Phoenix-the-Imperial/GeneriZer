@@ -237,4 +237,4 @@ for doc in docs:
     print(doc._.substitutes)
     print('***************************************************************')
 
-dbg.write_log('../log/log.txt')
+dbg.write_log('../log/log.log')

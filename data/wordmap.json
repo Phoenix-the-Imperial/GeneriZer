@@ -6,6 +6,7 @@
     "vibe":         "aura",
     "energy":       "aura",
     "personality":  "aura",
+
     "right":        "based",
     "plain":        "basic",
     "simple":       "basic",
@@ -30,12 +31,21 @@
     "shock":        "bruh",
     "great":        "bussin'",
     "butt":         "bussy",
+
     "lie":          "cap",
     "true":         "no cap",
     "red handed":   "caught in 4K",
     "response":     "clapback",
     "create":       "cook",
 
+    "dance":        "dab",
+    "excellent":    "dank",
+    "laughing":     ["ded", "dead"],
+    "delusional":   ["delulu", "delusionship"],
+    "toes":         "dogs",
+    "style":        "drip",
+    "fashion":      "drip",
+    "period":       "era",
 
     "danger":       "red flag",
     "warning":      "red flag"

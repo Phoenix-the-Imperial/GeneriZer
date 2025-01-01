@@ -1,7 +1,7 @@
 # GeneriZer
 
  A program to convert a song to Generation Z slang.
- Current version: `GZ-0.0.5`.
+ Current version: `GZ-0.0.6`.
 
 # Installation Guide
 
@@ -45,6 +45,12 @@
    - [ ] High-level usage documentation.
 
 # Version History
+
+ ## Version GZ-0.0.6 
+
+  The following changes were made.
+  1. Removed the the test prints.
+  2. Added a `.gitignore`.
 
  ## Version GZ-0.0.5
 

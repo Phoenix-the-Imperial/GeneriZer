@@ -1,7 +1,7 @@
 # GeneriZer
 
  A program to convert a song to Generation Z slang.
- Current version: `GZ-0.0.4`.
+ Current version: `GZ-0.0.6`.
 
 # Installation Guide
 
@@ -13,7 +13,7 @@
  
  ## Installation
 
-  Simply clone the repository with
+  Simply clone the repository with the following command.
  ```shell
  git clone https://github.com/Phoenix-the-Imperial/GeneriZer
  ```
@@ -29,6 +29,7 @@
  The high-level goals are as follows.
  - [ ] Lyrics
    - [ ] Create the full phrase map.
+   - [ ] Create a phrase-similarity-graph.
    - [ ] Use a word and phrase map.
    - [ ] Learn the word and phrase map.
  - [ ] Music
@@ -44,6 +45,18 @@
    - [ ] High-level usage documentation.
 
 # Version History
+
+ ## Version GZ-0.0.6 
+
+  The following changes were made.
+  1. Removed the the test prints.
+  2. Added a `.gitignore`.
+
+ ## Version GZ-0.0.5
+
+  The following changes were made.
+  1. Tentatively completed the phrase-map.
+  2. Renamed the extension of the log file from `.txt` to `.log`.
 
  ## Version GZ-0.0.4
 

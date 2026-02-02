@@ -250,3 +250,142 @@ TIMESTAMP: 2024-12-20 00:06:49.063220, DEBUG LEVEL 0 LOG 125: Phrase: aura .
 TIMESTAMP: 2024-12-20 00:06:49.063220, DEBUG LEVEL 0 LOG 126: Synonyms: ['aura .']
 STOP TIMESTAMP: 2024-12-20 00:06:49.063220
 
+START TIMESTAMP: 2025-01-01 23:14:02.639572
+TIMESTAMP: 2025-01-01 23:14:04.894251, DEBUG LEVEL 0 LOG 1: Length of the phrase: 1
+TIMESTAMP: 2025-01-01 23:14:04.894327, DEBUG LEVEL 0 LOG 2: Phrase: This
+TIMESTAMP: 2025-01-01 23:14:05.575873, DEBUG LEVEL 0 LOG 3: Synonyms: ['This', 'this', 'i̇t', 'one', 'that', 'what', 'another', 'same', 'yet', 'something', 'there']
+TIMESTAMP: 2025-01-01 23:14:05.576001, DEBUG LEVEL 0 LOG 4: Phrase: is
+TIMESTAMP: 2025-01-01 23:14:06.254076, DEBUG LEVEL 0 LOG 5: Synonyms: ['is', 'is', 'has', 'which', 'be', 'that', 'i̇t', 'only', 'being', 'one', 'comes']
+TIMESTAMP: 2025-01-01 23:14:06.254182, DEBUG LEVEL 0 LOG 6: Phrase: a
+TIMESTAMP: 2025-01-01 23:14:06.927933, DEBUG LEVEL 0 LOG 7: Synonyms: ['a', 'a', 'another', 'one', 'an', 'is', 'kind', 'first', 'the', 'second', 'something']
+TIMESTAMP: 2025-01-01 23:14:06.928033, DEBUG LEVEL 0 LOG 8: Phrase: great
+TIMESTAMP: 2025-01-01 23:14:07.605960, DEBUG LEVEL 0 LOG 9: Synonyms: ['great', 'great', 'good', 'fantastic', 'wonderful', 'amazing', 'excellent', 'awesome', 'very', 'terrific', 'nice']
+TIMESTAMP: 2025-01-01 23:14:07.606227, DEBUG LEVEL 0 LOG 10: Synonym: great
+TIMESTAMP: 2025-01-01 23:14:07.606248, DEBUG LEVEL 0 LOG 11: replacement_phrase: bussin'
+TIMESTAMP: 2025-01-01 23:14:07.606581, DEBUG LEVEL 0 LOG 12: modified_sentence: This is a bussin' pen.
+TIMESTAMP: 2025-01-01 23:14:07.606704, DEBUG LEVEL 0 LOG 13: Phrase: a
+TIMESTAMP: 2025-01-01 23:14:08.349317, DEBUG LEVEL 0 LOG 14: Synonyms: ['a', 'a', 'another', 'one', 'an', 'is', 'kind', 'first', 'the', 'second', 'something']
+TIMESTAMP: 2025-01-01 23:14:08.349437, DEBUG LEVEL 0 LOG 15: Phrase: bussin
+TIMESTAMP: 2025-01-01 23:14:09.089840, DEBUG LEVEL 0 LOG 16: Synonyms: ['bussin', 'smashin', 'cheerin', 'dumpin', 'disrespectin', 'grabbin', 'aimin', 'yellin', 'splittin', 'leakin']
+TIMESTAMP: 2025-01-01 23:14:09.089960, DEBUG LEVEL 0 LOG 17: Phrase: '
+TIMESTAMP: 2025-01-01 23:14:09.827591, DEBUG LEVEL 0 LOG 18: Synonyms: ["'", '’', '"', '`', '‘', '“', '”', '``', '′', 's']
+TIMESTAMP: 2025-01-01 23:14:09.827703, DEBUG LEVEL 0 LOG 19: Phrase: pen
+TIMESTAMP: 2025-01-01 23:14:10.497661, DEBUG LEVEL 0 LOG 20: Synonyms: ['pen', 'pen', 'pens', 'ballpoint', 'pencil', 'pencils', 'ink', 'ball-point', 'eraser', 'stylus', 'stick']
+TIMESTAMP: 2025-01-01 23:14:10.497772, DEBUG LEVEL 0 LOG 21: Phrase: .
+TIMESTAMP: 2025-01-01 23:14:11.174369, DEBUG LEVEL 0 LOG 22: Synonyms: ['.', '....', '.....', '...', 'etc.', 'so', 'anyway', 'well', 'but', '?']
+TIMESTAMP: 2025-01-01 23:14:11.174455, DEBUG LEVEL 0 LOG 23: Length of the phrase: 2
+TIMESTAMP: 2025-01-01 23:14:11.174509, DEBUG LEVEL 0 LOG 24: Phrase: This is
+TIMESTAMP: 2025-01-01 23:14:11.174526, DEBUG LEVEL 0 LOG 25: Synonyms: ['This is']
+TIMESTAMP: 2025-01-01 23:14:11.174547, DEBUG LEVEL 0 LOG 26: Phrase: is a
+TIMESTAMP: 2025-01-01 23:14:11.174562, DEBUG LEVEL 0 LOG 27: Synonyms: ['is a']
+TIMESTAMP: 2025-01-01 23:14:11.174585, DEBUG LEVEL 0 LOG 28: Phrase: a bussin
+TIMESTAMP: 2025-01-01 23:14:11.174599, DEBUG LEVEL 0 LOG 29: Synonyms: ['a bussin']
+TIMESTAMP: 2025-01-01 23:14:11.174617, DEBUG LEVEL 0 LOG 30: Phrase: bussin'
+TIMESTAMP: 2025-01-01 23:14:11.174632, DEBUG LEVEL 0 LOG 31: Synonyms: ["bussin'"]
+TIMESTAMP: 2025-01-01 23:14:11.174650, DEBUG LEVEL 0 LOG 32: Phrase: ' pen
+TIMESTAMP: 2025-01-01 23:14:11.174665, DEBUG LEVEL 0 LOG 33: Synonyms: ["' pen"]
+TIMESTAMP: 2025-01-01 23:14:11.174683, DEBUG LEVEL 0 LOG 34: Phrase: pen.
+TIMESTAMP: 2025-01-01 23:14:11.174698, DEBUG LEVEL 0 LOG 35: Synonyms: ['pen.']
+TIMESTAMP: 2025-01-01 23:14:11.174841, DEBUG LEVEL 0 LOG 36: Length of the phrase: 1
+TIMESTAMP: 2025-01-01 23:14:11.174866, DEBUG LEVEL 0 LOG 37: Phrase: You
+TIMESTAMP: 2025-01-01 23:14:11.909816, DEBUG LEVEL 0 LOG 38: Synonyms: ['You', 'you', "'ll", 'want', 'sure', 'can', 'know', 'let', 'yourself', 'your', 'get']
+TIMESTAMP: 2025-01-01 23:14:11.909937, DEBUG LEVEL 0 LOG 39: Phrase: are
+TIMESTAMP: 2025-01-01 23:14:12.586352, DEBUG LEVEL 0 LOG 40: Synonyms: ['are', 'are', 'be', 'were', 'have', 'they', 'these', 'seem', 'those', 'generally', 'can']
+TIMESTAMP: 2025-01-01 23:14:12.586478, DEBUG LEVEL 0 LOG 41: Phrase: a
+TIMESTAMP: 2025-01-01 23:14:13.325274, DEBUG LEVEL 0 LOG 42: Synonyms: ['a', 'a', 'another', 'one', 'an', 'is', 'kind', 'first', 'the', 'second', 'something']
+TIMESTAMP: 2025-01-01 23:14:13.325399, DEBUG LEVEL 0 LOG 43: Phrase: very
+TIMESTAMP: 2025-01-01 23:14:13.998471, DEBUG LEVEL 0 LOG 44: Synonyms: ['very', 'very', 'quite', 'extremely', 'really', 'pretty', 'so', 'too', 'good', 'fairly', 'well']
+TIMESTAMP: 2025-01-01 23:14:13.998686, DEBUG LEVEL 0 LOG 45: Synonym: good
+TIMESTAMP: 2025-01-01 23:14:13.998749, DEBUG LEVEL 0 LOG 46: replacement_phrase: lit
+TIMESTAMP: 2025-01-01 23:14:13.999026, DEBUG LEVEL 0 LOG 47: modified_sentence: You are a lit good boy.
+TIMESTAMP: 2025-01-01 23:14:13.999130, DEBUG LEVEL 0 LOG 48: Phrase: lit
+TIMESTAMP: 2025-01-01 23:14:14.673488, DEBUG LEVEL 0 LOG 49: Synonyms: ['lit', 'lit', 'lighted', 'lights', 'illuminated', 'dimly', 'dim', 'glow', 'glowing', 'brightly', 'flickering']
+TIMESTAMP: 2025-01-01 23:14:14.673601, DEBUG LEVEL 0 LOG 50: Phrase: good
+TIMESTAMP: 2025-01-01 23:14:15.347830, DEBUG LEVEL 0 LOG 51: Synonyms: ['good', 'good', 'great', 'better', 'very', 'nice', 'really', 'excellent', 'decent', 'well', 'but']
+TIMESTAMP: 2025-01-01 23:14:15.348032, DEBUG LEVEL 0 LOG 52: Synonym: good
+TIMESTAMP: 2025-01-01 23:14:15.348103, DEBUG LEVEL 0 LOG 53: replacement_phrase: Gucci
+TIMESTAMP: 2025-01-01 23:14:15.348403, DEBUG LEVEL 0 LOG 54: modified_sentence: You are a lit Gucci boy.
+TIMESTAMP: 2025-01-01 23:14:15.348485, DEBUG LEVEL 0 LOG 55: Phrase: Gucci
+TIMESTAMP: 2025-01-01 23:14:16.023763, DEBUG LEVEL 0 LOG 56: Synonyms: ['Gucci', 'gucci', 'prada', 'burberry', 'fendi', 'chanel', 'handbags', 'vuitton', 'louis', 'handbag', 'armani']
+TIMESTAMP: 2025-01-01 23:14:16.023864, DEBUG LEVEL 0 LOG 57: Phrase: boy
+TIMESTAMP: 2025-01-01 23:14:16.697259, DEBUG LEVEL 0 LOG 58: Synonyms: ['boy', 'boy', 'girl', 'kid', 'boys', 'man', 'teenager', 'young', 'dad', 'daddy', 'lad']
+TIMESTAMP: 2025-01-01 23:14:16.697369, DEBUG LEVEL 0 LOG 59: Phrase: .
+TIMESTAMP: 2025-01-01 23:14:17.367084, DEBUG LEVEL 0 LOG 60: Synonyms: ['.', '....', '.....', '...', 'etc.', 'so', 'anyway', 'well', 'but', '?']
+TIMESTAMP: 2025-01-01 23:14:17.367167, DEBUG LEVEL 0 LOG 61: Length of the phrase: 2
+TIMESTAMP: 2025-01-01 23:14:17.367225, DEBUG LEVEL 0 LOG 62: Phrase: You are
+TIMESTAMP: 2025-01-01 23:14:17.367242, DEBUG LEVEL 0 LOG 63: Synonyms: ['You are']
+TIMESTAMP: 2025-01-01 23:14:17.367270, DEBUG LEVEL 0 LOG 64: Phrase: are a
+TIMESTAMP: 2025-01-01 23:14:17.367286, DEBUG LEVEL 0 LOG 65: Synonyms: ['are a']
+TIMESTAMP: 2025-01-01 23:14:17.367307, DEBUG LEVEL 0 LOG 66: Phrase: a lit
+TIMESTAMP: 2025-01-01 23:14:17.367322, DEBUG LEVEL 0 LOG 67: Synonyms: ['a lit']
+TIMESTAMP: 2025-01-01 23:14:17.367340, DEBUG LEVEL 0 LOG 68: Phrase: lit Gucci
+TIMESTAMP: 2025-01-01 23:14:17.367354, DEBUG LEVEL 0 LOG 69: Synonyms: ['lit Gucci']
+TIMESTAMP: 2025-01-01 23:14:17.367373, DEBUG LEVEL 0 LOG 70: Phrase: Gucci boy
+TIMESTAMP: 2025-01-01 23:14:17.367389, DEBUG LEVEL 0 LOG 71: Synonyms: ['Gucci boy']
+TIMESTAMP: 2025-01-01 23:14:17.367407, DEBUG LEVEL 0 LOG 72: Phrase: boy.
+TIMESTAMP: 2025-01-01 23:14:17.367422, DEBUG LEVEL 0 LOG 73: Synonyms: ['boy.']
+TIMESTAMP: 2025-01-01 23:14:17.367541, DEBUG LEVEL 0 LOG 74: Length of the phrase: 1
+TIMESTAMP: 2025-01-01 23:14:17.367565, DEBUG LEVEL 0 LOG 75: Phrase: This
+TIMESTAMP: 2025-01-01 23:14:18.040676, DEBUG LEVEL 0 LOG 76: Synonyms: ['This', 'this', 'i̇t', 'one', 'that', 'what', 'another', 'same', 'yet', 'something', 'there']
+TIMESTAMP: 2025-01-01 23:14:18.040790, DEBUG LEVEL 0 LOG 77: Phrase: is
+TIMESTAMP: 2025-01-01 23:14:18.717526, DEBUG LEVEL 0 LOG 78: Synonyms: ['is', 'is', 'has', 'which', 'be', 'that', 'i̇t', 'only', 'being', 'one', 'comes']
+TIMESTAMP: 2025-01-01 23:14:18.717639, DEBUG LEVEL 0 LOG 79: Phrase: boring
+TIMESTAMP: 2025-01-01 23:14:19.396139, DEBUG LEVEL 0 LOG 80: Synonyms: ['boring', 'boring', 'uninteresting', 'dull', 'tedious', 'bored', 'pointless', 'bland', 'monotonous', 'uninspired', 'stupid']
+TIMESTAMP: 2025-01-01 23:14:19.396262, DEBUG LEVEL 0 LOG 81: Phrase: as
+TIMESTAMP: 2025-01-01 23:14:20.133777, DEBUG LEVEL 0 LOG 82: Synonyms: ['as', 'as', 'well', 'such', 'but', 'being', 'rather', 'that', 'even', 'which', 'both']
+TIMESTAMP: 2025-01-01 23:14:20.133896, DEBUG LEVEL 0 LOG 83: Phrase: fuck
+TIMESTAMP: 2025-01-01 23:14:20.805542, DEBUG LEVEL 0 LOG 84: Synonyms: ['fuck', 'fuck', 'fucking', 'ass', 'fucked', 'bitch', 'dick', 'pussy', 'suck', 'fucks', 'fucker']
+TIMESTAMP: 2025-01-01 23:14:20.805655, DEBUG LEVEL 0 LOG 85: Phrase: .
+TIMESTAMP: 2025-01-01 23:14:21.475097, DEBUG LEVEL 0 LOG 86: Synonyms: ['.', '....', '.....', '...', 'etc.', 'so', 'anyway', 'well', 'but', '?']
+TIMESTAMP: 2025-01-01 23:14:21.475176, DEBUG LEVEL 0 LOG 87: Length of the phrase: 2
+TIMESTAMP: 2025-01-01 23:14:21.475232, DEBUG LEVEL 0 LOG 88: Phrase: This is
+TIMESTAMP: 2025-01-01 23:14:21.475253, DEBUG LEVEL 0 LOG 89: Synonyms: ['This is']
+TIMESTAMP: 2025-01-01 23:14:21.475277, DEBUG LEVEL 0 LOG 90: Phrase: is boring
+TIMESTAMP: 2025-01-01 23:14:21.475302, DEBUG LEVEL 0 LOG 91: Synonyms: ['is boring']
+TIMESTAMP: 2025-01-01 23:14:21.475324, DEBUG LEVEL 0 LOG 92: Phrase: boring as
+TIMESTAMP: 2025-01-01 23:14:21.475341, DEBUG LEVEL 0 LOG 93: Synonyms: ['boring as']
+TIMESTAMP: 2025-01-01 23:14:21.475362, DEBUG LEVEL 0 LOG 94: Phrase: as fuck
+TIMESTAMP: 2025-01-01 23:14:21.475377, DEBUG LEVEL 0 LOG 95: Synonyms: ['as fuck']
+TIMESTAMP: 2025-01-01 23:14:21.475509, DEBUG LEVEL 0 LOG 96: Synonym: as fuck
+TIMESTAMP: 2025-01-01 23:14:21.475563, DEBUG LEVEL 0 LOG 97: replacement_phrase: asf
+TIMESTAMP: 2025-01-01 23:14:21.475834, DEBUG LEVEL 0 LOG 98: modified_sentence: This is boring asf .
+TIMESTAMP: 2025-01-01 23:14:21.476031, DEBUG LEVEL 0 LOG 99: Length of the phrase: 1
+TIMESTAMP: 2025-01-01 23:14:21.476061, DEBUG LEVEL 0 LOG 100: Phrase: I
+TIMESTAMP: 2025-01-01 23:14:22.148403, DEBUG LEVEL 0 LOG 101: Synonyms: ['I', 'i̇', 'ive', 'u', 'cant', 'didnt', 'dont', 'havent', 'im', 'thats', 'cuz']
+TIMESTAMP: 2025-01-01 23:14:22.148522, DEBUG LEVEL 0 LOG 102: Phrase: do
+TIMESTAMP: 2025-01-01 23:14:22.823115, DEBUG LEVEL 0 LOG 103: Synonyms: ['do', 'do', "n't", 'want', 'know', 'think', 'they', 'would', 'need', 'did', 'you']
+TIMESTAMP: 2025-01-01 23:14:22.823247, DEBUG LEVEL 0 LOG 104: Phrase: not
+TIMESTAMP: 2025-01-01 23:14:23.560239, DEBUG LEVEL 0 LOG 105: Synonyms: ['not', 'not', 'should', 'be', 'would', 'because', 'cannot', 'but', 'i̇f', "n't", 'never']
+TIMESTAMP: 2025-01-01 23:14:23.560367, DEBUG LEVEL 0 LOG 106: Phrase: like
+TIMESTAMP: 2025-01-01 23:14:24.234249, DEBUG LEVEL 0 LOG 107: Synonyms: ['like', 'like', 'think', 'know', 'even', 'really', 'something', 'but', 'thought', 'maybe', "n't"]
+TIMESTAMP: 2025-01-01 23:14:24.234371, DEBUG LEVEL 0 LOG 108: Phrase: your
+TIMESTAMP: 2025-01-01 23:14:24.904487, DEBUG LEVEL 0 LOG 109: Synonyms: ['your', 'your', 'you', 'yourself', 'our', 'own', 'any', 'my', 'keep', 'his/her', 'yours']
+TIMESTAMP: 2025-01-01 23:14:24.904598, DEBUG LEVEL 0 LOG 110: Phrase: vibe
+TIMESTAMP: 2025-01-01 23:14:25.580936, DEBUG LEVEL 0 LOG 111: Synonyms: ['vibe', 'vibe', 'vibes', 'laid-back', 'funky', 'ambience', 'ambiance', 'edgy', 'laidback', 'mellow', 'jazzy']
+TIMESTAMP: 2025-01-01 23:14:25.581136, DEBUG LEVEL 0 LOG 112: Synonym: vibe
+TIMESTAMP: 2025-01-01 23:14:25.581161, DEBUG LEVEL 0 LOG 113: replacement_phrase: aura
+TIMESTAMP: 2025-01-01 23:14:25.581467, DEBUG LEVEL 0 LOG 114: modified_sentence: I do not like your aura .
+TIMESTAMP: 2025-01-01 23:14:25.581573, DEBUG LEVEL 0 LOG 115: Phrase: aura
+TIMESTAMP: 2025-01-01 23:14:26.263670, DEBUG LEVEL 0 LOG 116: Synonyms: ['aura', 'aura', 'auras', 'charisma', 'mystique', 'enchantment', 'exude', 'exudes', 'radiates', 'imbued', 'calmness']
+TIMESTAMP: 2025-01-01 23:14:26.263897, DEBUG LEVEL 0 LOG 117: Synonym: charisma
+TIMESTAMP: 2025-01-01 23:14:26.263920, DEBUG LEVEL 0 LOG 118: replacement_phrase: rizz
+TIMESTAMP: 2025-01-01 23:14:26.264208, DEBUG LEVEL 0 LOG 119: modified_sentence: I do not like your rizz .
+TIMESTAMP: 2025-01-01 23:14:26.264303, DEBUG LEVEL 0 LOG 120: Phrase: rizz
+TIMESTAMP: 2025-01-01 23:14:27.009068, DEBUG LEVEL 0 LOG 121: Synonyms: ['rizz', 'nry', 'riy', 'zez', 'shand', 'yno', 'timmeh', 'pey', 'docherty', 'clarky']
+TIMESTAMP: 2025-01-01 23:14:27.009204, DEBUG LEVEL 0 LOG 122: Phrase: .
+TIMESTAMP: 2025-01-01 23:14:27.681651, DEBUG LEVEL 0 LOG 123: Synonyms: ['.', '....', '.....', '...', 'etc.', 'so', 'anyway', 'well', 'but', '?']
+TIMESTAMP: 2025-01-01 23:14:27.681736, DEBUG LEVEL 0 LOG 124: Length of the phrase: 2
+TIMESTAMP: 2025-01-01 23:14:27.681794, DEBUG LEVEL 0 LOG 125: Phrase: I do
+TIMESTAMP: 2025-01-01 23:14:27.681812, DEBUG LEVEL 0 LOG 126: Synonyms: ['I do']
+TIMESTAMP: 2025-01-01 23:14:27.681835, DEBUG LEVEL 0 LOG 127: Phrase: do not
+TIMESTAMP: 2025-01-01 23:14:27.681851, DEBUG LEVEL 0 LOG 128: Synonyms: ['do not']
+TIMESTAMP: 2025-01-01 23:14:27.681871, DEBUG LEVEL 0 LOG 129: Phrase: not like
+TIMESTAMP: 2025-01-01 23:14:27.681886, DEBUG LEVEL 0 LOG 130: Synonyms: ['not like']
+TIMESTAMP: 2025-01-01 23:14:27.681906, DEBUG LEVEL 0 LOG 131: Phrase: like your
+TIMESTAMP: 2025-01-01 23:14:27.681920, DEBUG LEVEL 0 LOG 132: Synonyms: ['like your']
+TIMESTAMP: 2025-01-01 23:14:27.681939, DEBUG LEVEL 0 LOG 133: Phrase: your rizz
+TIMESTAMP: 2025-01-01 23:14:27.681953, DEBUG LEVEL 0 LOG 134: Synonyms: ['your rizz']
+TIMESTAMP: 2025-01-01 23:14:27.681971, DEBUG LEVEL 0 LOG 135: Phrase: rizz .
+TIMESTAMP: 2025-01-01 23:14:27.681986, DEBUG LEVEL 0 LOG 136: Synonyms: ['rizz .']
+STOP TIMESTAMP: 2025-01-01 23:14:27.682117
+
